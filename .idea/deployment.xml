@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ssh://zhoukang@192.168.31.230:22/usr/local/anaconda3/bin/python" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="ssh://zhoukang@192.168.31.230:22/usr/local/anaconda3/bin/python">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhoukang/kaggle_DR_image_quality_miccai2018_workshop" local="$PROJECT_DIR$/../kaggle_DR_image_quality_miccai2018_workshop" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
