@@ -17,11 +17,15 @@ In our Kaggle DR image quality dataset, the number of good and poor quality imag
 
 ## Quality Label
 The csv files are in *quality_csv_label*
+
   _quality_label_train.csv_
+  
   _quality_label_validate.csv_
+  
   _quality_label_test.csv_
 
   **0 denotes poor quality**
+  
   **1 denotes good quality**
 
 
