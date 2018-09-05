@@ -3,7 +3,7 @@ To be released
 
 
 # Kaggle DR dataset
-EyePACS: Diabetic retinopathy detection. https://www.kaggle.com/c/diabeticretinopathy-detection/data
+EyePACS: Diabetic retinopathy detection. https://www.kaggle.com/c/diabetic-retinopathy-detection/data
 
 
 # Kaggle DR Image Quality Dataset
@@ -16,13 +16,13 @@ In our Kaggle DR image quality dataset, the number of good and poor quality imag
 ![table1](images/table1.png)
 
 ## Quality Label
-The csv files are in *quality_csv_label*
-_quality_label_train.csv_
-_quality_label_validate.csv_
-_quality_label_test.csv_
+The csv files are in *quality_csv_label*;
+_quality_label_train.csv_;
+_quality_label_validate.csv_;
+_quality_label_test.csv_;
 
-**0 denotes poor quality**
-**1 denotes good quality**
+**0 denotes poor quality**;
+**1 denotes good quality**;
 
 
 # Citation
