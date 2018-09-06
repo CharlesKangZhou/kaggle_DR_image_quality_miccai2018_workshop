@@ -7,6 +7,8 @@ EyePACS: Diabetic retinopathy detection. https://www.kaggle.com/c/diabetic-retin
 
 
 # Kaggle DR Image Quality Dataset
+**The funds image quality label is provided by iMed.**(homepage: http://imed.nimte.ac.cn/;http://imed.nimte.ac.cn/aboutus.html)
+
 ## Four instances of poor quality images in Kaggle DR dataset
 ![fig1](images/fig1.png)
 The quality of these images are too poor to identify the lesion.
