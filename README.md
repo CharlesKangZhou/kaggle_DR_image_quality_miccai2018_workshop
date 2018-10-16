@@ -38,10 +38,10 @@ The csv files are in *quality_csv_label*
 If you find this useful, please cite our work as follows:
 
 @incollection{zhou2018fundus,
-  title={Fundus Image Quality-Guided Diabetic Retinopathy Grading},
-  author={Zhou, Kang and Gu, Zaiwang and Li, Annan and Cheng, Jun and Gao, Shenghua and Liu, Jiang},
-  booktitle={Computational Pathology and Ophthalmic Medical Image Analysis},
-  pages={245--252},
-  year={2018},
-  publisher={Springer}
+  title={Fundus Image Quality-Guided Diabetic Retinopathy Grading},  
+  author={Zhou, Kang and Gu, Zaiwang and Li, Annan and Cheng, Jun and Gao, Shenghua and Liu, Jiang},  
+  booktitle={Computational Pathology and Ophthalmic Medical Image Analysis},  
+  pages={245--252},  
+  year={2018},  
+  publisher={Springer}  
 }
