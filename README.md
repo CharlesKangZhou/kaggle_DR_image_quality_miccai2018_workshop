@@ -1,6 +1,9 @@
 # Code
 To be released
 
+# paper
+Fundus Image Quality-Guided Diabetic Retinopathy Grading
+https://link.springer.com/chapter/10.1007/978-3-030-00949-6_29
 
 # Kaggle DR dataset
 EyePACS: Diabetic retinopathy detection. https://www.kaggle.com/c/diabetic-retinopathy-detection/data
@@ -33,4 +36,12 @@ The csv files are in *quality_csv_label*
 
 # Citation
 If you find this useful, please cite our work as follows:
-***
+
+@incollection{zhou2018fundus,
+  title={Fundus Image Quality-Guided Diabetic Retinopathy Grading},
+  author={Zhou, Kang and Gu, Zaiwang and Li, Annan and Cheng, Jun and Gao, Shenghua and Liu, Jiang},
+  booktitle={Computational Pathology and Ophthalmic Medical Image Analysis},
+  pages={245--252},
+  year={2018},
+  publisher={Springer}
+}
