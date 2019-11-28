@@ -1,6 +1,3 @@
-# Code
-To be released
-
 # paper
 Fundus Image Quality-Guided Diabetic Retinopathy Grading
 https://link.springer.com/chapter/10.1007/978-3-030-00949-6_29
@@ -10,7 +7,7 @@ EyePACS: Diabetic retinopathy detection. https://www.kaggle.com/c/diabetic-retin
 
 
 # Kaggle DR Image Quality Dataset
-**The funds image quality label is provided by iMed.**(homepage: http://imed.nimte.ac.cn/;http://imed.nimte.ac.cn/aboutus.html)
+**The fundus image quality label is provided by iMed.**(homepage: http://imed.nimte.ac.cn/;http://imed.nimte.ac.cn/aboutus.html)
 
 ## Four instances of poor quality images in Kaggle DR dataset
 ![fig1](images/fig1.png)
